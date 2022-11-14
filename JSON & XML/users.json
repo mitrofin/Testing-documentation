@@ -1,0 +1,97 @@
+[
+  {
+    "id": 111,
+    "full_name": "Atos Thecham",
+    "city": "Shkarivka",
+    "address": [
+      {
+        "street": "Fairview Park",
+        "house №": 12,
+        "flat №": 166
+      }
+    ],
+    "contacts": [
+      {
+        "phone": "+86 (821) 879-1503",
+        "e-mail": "kthecham0@apple.com",
+        "skype": "Thecham_A"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "full_name": "Partos Bantham",
+    "city": "Glevaha",
+    "address": [
+      {
+        "street": "Bunker Hill Parkway",
+        "house №": 25,
+        "flat №": 15
+      }
+    ],
+    "contacts": [
+      {
+        "phone": "+359 (671) 437-2949",
+        "e-mail": "lbantham1@princeton.edu",
+        "skype": "Bantham_P"
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "full_name": "Aramis Zylbermann",
+    "city": "Skvyra",
+    "address": [
+      {
+        "street": "Vera Pass",
+        "house №": 1,
+        "flat №": 98
+      }
+    ],
+    "contacts": [
+      {
+        "phone": "+86 (661) 877-6994",
+        "e-mail": "azylbermann2@nytimes.com",
+        "skype": "Zylbermann_A"
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "full_name": "Dartanjan Cowley",
+    "city": "Fursy",
+    "address": [
+      {
+        "street": "Paget Court",
+        "house №": 90267,
+        "flat №": 13
+      }
+    ],
+    "contacts": [
+      {
+        "phone": "+49 (519) 103-2485",
+        "e-mail": "ccowley3@unicef.org",
+        "skype": "Cowley_D"
+      }
+    ]
+  },
+  {
+    "id": 511,
+    "full_name": "Constanciya Bonasie",
+    "city": "Chmyrivka",
+    "address": [
+      {
+        "street": "Dennis Circle",
+        "house №": 23,
+        "flat №": 12
+      }
+    ],
+    "contacts": [
+      {
+        "phone": "+353 (328) 792-6385",
+        "e-mail": "cgoucher4@google.nl",
+        "skype": "Bonasie_C"
+      }
+    ]
+  }
+]

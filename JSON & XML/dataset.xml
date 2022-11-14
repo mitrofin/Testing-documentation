@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<users>
+    <user>
+        <id>121</id>
+        <full_name>Atos Durbridge</full_name>
+        <city>Shkarivka</city>
+        <address>
+            <street>Little Fleur Hill</street>
+            <house>82</house>
+            <flat>323</flat>
+        </address>
+        <contacts>
+            <phone>+27 (862) 512-8999</phone>
+            <e-mail>sdurbridge0@adobe.com</e-mail>
+            <skype>Durbridge_A</skype>
+        </contacts>
+
+    </user>
+    <user>
+        <id>242</id>
+        <full_name>Partos Merrett</full_name>
+        <city>Glevaha</city>
+        <address>
+            <street>Vidon Way</street>
+            <house>51350</house>
+            <flat>44</flat>
+        </address>
+        <contacts>
+            <phone>+86 (463) 125-1463</phone>
+            <e-mail>amerrett1@altervista.org</e-mail>
+            <skype>Merrett_P</skype>
+        </contacts>
+        
+    </user>
+    <user>
+        <id>312</id>
+        <full_name>Aramis Eyers</full_name>
+        <city>Skvyra</city>
+        <address>
+            <street>Scott Point</street>
+            <house>44</house>
+            <flat>90</flat>
+        </address>
+        <contacts>
+             <phone>+1 (770) 929-3136</phone>
+             <e-mail>meyers2@mlb.com</e-mail>
+             <skype>Eyers_A</skype>
+        </contacts>
+
+    </user>
+    <user>
+        <id>455</id>
+        <full_name>Dartanjan Armor</full_name>
+        <city>Fursy</city>
+        <address>
+            <street>Tony Crossing</street>
+            <house>3154</house>
+            <flat>33</flat>
+        </address>
+        <contacts>
+            <phone>+86 (756) 339-9247</phone>
+            <e-mail>karmor3@dailymail.co.uk</e-mail>
+            <skype>Armor_D</skype>
+        </contacts>
+
+    </user>
+    <user>
+        <id>512</id>
+        <full_name>Constanciya Bonasie</full_name>
+        <city>Chmyrivka</city>
+        <address>
+            <street>Canary Road</street>
+            <house>4363</house>
+            <flat>44</flat>
+        </address>
+        <contacts>
+            <phone>+351 (721) 749-6898</phone>
+            <e-mail>mmatej4@apple.com</e-mail>
+            <skype>Bonasie_C</skype>
+        </contacts>
+
+    </user>
+</users>
